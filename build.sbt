@@ -2,7 +2,7 @@ ThisBuild / tlBaseVersion := "0.0"
 
 ThisBuild / developers := List(
   tlGitHubDev("BalmungSan", "Luis Miguel Mejía Suárez"),
-  tlGitHubDev("armanbilge", "Arman Bilge")
+  tlGitHubDev("armanbilge", "Arman Bilge"),
 )
 ThisBuild / startYear := Some(2022)
 
